@@ -4,7 +4,7 @@
 
  ## AndroRAT
 
-AndroRAT es una herramienta maliciosa diseñada para tomar el control remoto de dispositivos Android de manera no autorizada, permitiendo a los atacantes acceder a datos personales, controlar el dispositivo y llevar a cabo actividades perjudiciales. Su uso es ilegal y se considera una amenaza seria para la privacidad y seguridad de los usuarios.
+AndroRAT es una herramienta desarrollada para acceder de manera remota a dispositivos Andorid  (no asumimos responsabilidad por un uso inapropiado de esta potente herramienta). Permitiéndonos acceder a los archivos del movil, tomando el control de este (Datos - multimedia - textos).
 
 https://github.com/artistc0de/AndroRAT
 
